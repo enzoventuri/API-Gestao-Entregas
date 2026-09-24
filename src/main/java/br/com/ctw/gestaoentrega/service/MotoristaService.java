@@ -11,6 +11,9 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
+/**
+ * Service de Motorista para validar regras de negócio
+ */
 @Service
 @RequiredArgsConstructor
 public class MotoristaService {

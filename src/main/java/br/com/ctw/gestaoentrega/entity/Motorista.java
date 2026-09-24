@@ -5,6 +5,9 @@ import lombok.*;
 
 import java.util.List;
 
+/**
+ * Entidade de Motorista
+ */
 @Entity
 @Table(name = "tb_motorista")
 @AllArgsConstructor

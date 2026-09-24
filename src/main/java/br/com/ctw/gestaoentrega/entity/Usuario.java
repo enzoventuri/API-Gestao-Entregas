@@ -3,6 +3,9 @@ package br.com.ctw.gestaoentrega.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+/**
+ * Entidade do Usuário
+ */
 @Entity
 @Table(name = "tb_usuario")
 @AllArgsConstructor
